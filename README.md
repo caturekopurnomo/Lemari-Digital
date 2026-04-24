@@ -1,2 +1,2 @@
 # arsip-dokumen-sekolah
-Tempat Menyimpat Dokumen
+Tempat Menyimpan Dokumen
